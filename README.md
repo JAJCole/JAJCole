@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**JAJCole/JAJCole** ReadMe Repository
+**JAJCole** ReadMe Repository
 
 - I am learning SQL and the foundations of Data Science with the stellar CodeUp crew. I am interested in DS for its broad application and power.
 - I'm currently working on the introductory material of the Codeup Data Science program.

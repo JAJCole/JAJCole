@@ -1,8 +1,6 @@
 ### Hi 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAJCole)](https://github.com/anuraghazra/github-readme-stats)
-
 - I am learning the basics of Data Science with the stellar CodeUp crew.
 - Familiar languages: Python, SQL, C#
 - I'm looking for collaboration on any relevant outside project as well as those I am assigned. 
